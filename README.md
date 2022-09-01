@@ -7,13 +7,19 @@ tracked
 The excel has several sheets
 
 *Dashboard* - Simple overview of the activities being tracked, the track_goals allows one to either enter category, task, or give feedback on the category to measure
+
+
 ![Screenshot (28)](https://user-images.githubusercontent.com/86672704/187843010-83a755de-7887-47c6-9242-089b74675e51.png)
+
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/86672704/187843333-8c00fab9-d58a-49b7-9775-aaba9da0c845.png)
 
 
 
 *Calendar* - calendar generated using excel formulas such as datevalue and rows, this has been combined with condititional formatting to only reveal the dates for the 
 selected month, VBA code used to manage clicking of the calendar dates, based on activities in the activities sheets, the text return of a particular date 
+
+
 ![Screenshot (29)](https://user-images.githubusercontent.com/86672704/187843042-6a3ed4d9-3629-48ce-aec8-2ebd25b931ac.png)
 
   
